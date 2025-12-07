@@ -18,45 +18,45 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cplusplus.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="cplusplus"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=cplusplus&logoColor=363332" alt="cplusplus" width="80"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="python"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=python&logoColor=363332" alt="python" width="80"/>
   </a>
   <a href="https://www.zsh.org/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/zsh.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="zsh"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=zsh&logoColor=363332" alt="zsh" width="80"/>
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rust.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="rust"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=rust&logoColor=363332" alt="rust" width="80"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/swift.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="swift"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=swift&logoColor=363332" alt="swift" width="80"/>
   </a>
   <a href="https://www.st.com/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stmicroelectronics.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="stmicroelectronics"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=stmicroelectronics&logoColor=363332" alt="stmicroelectronics" width="80"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="linux"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=linux&logoColor=363332" alt="linux" width="80"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="git"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=git&logoColor=363332" alt="git" width="80"/>
   </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cmake.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="cmake"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=cmake&logoColor=363332" alt="cmake" width="80"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="docker"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=docker&logoColor=363332" alt="docker" width="80"/>
   </a>
   <a href="https://typst.app/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typst.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="typst"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=typst&logoColor=363332" alt="typst" width="80"/>
   </a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ros.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="ros"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=ros&logoColor=363332" alt="ros" width="80"/>
   </a>
   <a href="https://vscodium.com/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vscodium.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="vscodium"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=vscodium&logoColor=363332" alt="vscodium" width="80"/>
   </a>
   <a href="https://kde.org/" target="_blank" rel="noreferrer">
-    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kde.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="kde"/>
+    <img src="https://img.shields.io/badge/-white?style=square&logo=kde&logoColor=363332" alt="kde" width="80"/>
   </a>
 </p>
