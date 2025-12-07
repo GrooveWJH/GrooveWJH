@@ -23,7 +23,7 @@
   &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/%20-white?style=square&logo=zsh&logoColor=363332" alt="zsh" width="80"/>
   &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/%20-white?style=square&logo=rust&logoColor=363332" alt="rust" width="80"/>
+    <img src="https://img.shields.io/badge/%20-white?style=square&logo=apple&logoColor=363332" alt="apple" width="80"/>
   &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/%20-white?style=square&logo=swift&logoColor=363332" alt="swift" width="80"/>
   &nbsp;&nbsp;&nbsp;
