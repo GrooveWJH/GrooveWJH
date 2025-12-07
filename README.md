@@ -18,45 +18,45 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cplusplus.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="cplusplus"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" alt="python" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="python"/>
   </a>
   <a href="https://www.zsh.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/zsh.svg" alt="zsh" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/zsh.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="zsh"/>
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rust.svg" alt="rust" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rust.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="rust"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/swift.svg" alt="swift" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/swift.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="swift"/>
   </a>
   <a href="https://www.st.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stmicroelectronics.svg" alt="stmicroelectronics" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stmicroelectronics.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="stmicroelectronics"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg" alt="linux" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="linux"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" alt="git" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="git"/>
   </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cmake.svg" alt="cmake" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cmake.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="cmake"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" alt="docker" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="docker"/>
   </a>
   <a href="https://typst.app/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typst.svg" alt="typst" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typst.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="typst"/>
   </a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ros.svg" alt="ros" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ros.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="ros"/>
   </a>
   <a href="https://vscodium.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vscodium.svg" alt="vscodium" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vscodium.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="vscodium"/>
   </a>
   <a href="https://kde.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kde.svg" alt="kde" width="40" height="40"/>
+    <img src="data:image/svg+xml,%3csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='white'/%3e%3cimage href='https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kde.svg' x='10' y='10' width='60' height='60'/%3e%3c/svg%3e" alt="kde"/>
   </a>
 </p>
