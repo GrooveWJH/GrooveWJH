@@ -1,16 +1,5 @@
 ## Hi there 👋
 
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GrooveWJH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </td>
-  <td>
-    <img src="https://metrics.lecoq.io/GrooveWJH?template=classic&config.timezone=Asia%2FShanghai&theme=tokyonight" alt="Metrics" />
-  </td>
-</tr>
-</table>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GrooveWJH&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
